@@ -131,8 +131,6 @@ Phase 4 — Reporting            Executive summary, ATT&CK mapping, remediation
 | [`TLOA-Framework`](https://github.com/Higor1912/TLOA-Framework) | This repository — framework documentation and architecture |
 | [`TLOA-Lab-Exercises`](https://github.com/Higor1912) | ATT&CK-mapped exercises with execution logs, Wazuh detections, and gap analysis |
 | [`TLOA-IR-Cases`](https://github.com/Higor1912) | Structured IR investigations following the 4-phase format |
-| [`CTI-Toolkit`](https://github.com/Higor1912) | Python modules for offline TTP mapping (STIX 2.1), IOC enrichment, and report generation |
-| [`Threat-Intel-Reports`](https://github.com/Higor1912) | Structured threat intelligence reports with ATT&CK coverage and IOC tables |
 
 ---
 
